@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.introsection {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 21.5%;
+}
+
+.middle-container {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.interests {
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #71C9CE;
+}
+
+.cloud-L1 {
+  position: absolute;
+  filter: drop-shadow(0 0 5px lightgray);
+  top: 100px;
+  width: 10%;
+  right: 27%;
+}
+
+.cloud-S {
+  position: absolute;
+  filter: drop-shadow(0 0 5px lightgray);
+  width: 5%;
+  top: 480px;
+  right: 40%;
+}
+
+.cloud-L2 {
+  position: absolute;
+  filter: drop-shadow(0 0 5px lightgray);
+  width: 15%;
+  top: 200px;
+}
+
+.mountain {
+  filter: drop-shadow(0 0 5px lightgray);
+  width: 50%;
+}
+
+.interest-row {
+  width: 50%;
+  margin: 0 auto 0;
+}
+
+h1 {
+  color: #006778;
+  font-size: 4.2rem; /* 16px = 100% = 1em */
+  margin: 0;
+  font-family: 'Tenor Sans', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #247881;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #43919B;
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: lightgray;
+  border-width: 5px;
+  width: 5%;
+  height: 5px;
+}
+
+p {
+  padding-bottom: 30px;
+}
+
+.button {
+  color: #006778;
+  text-decoration: none;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.cooking-img {
+  filter: drop-shadow(5px 5px 5px lightgray);
+  float: left;
+  margin-right: 20px;
+}
+
+.language-img {
+  filter: drop-shadow(5px 5px 5px lightgray);
+  float: right;
+  margin-right: 20px;
+}
+
+.cleaning-img {
+  filter: drop-shadow(5px 5px 5px lightgray);
+  float: left;
+  margin-right: 20px;
+}
+
+.profile-img {
+  filter: drop-shadow(5px 5px 5px lightgray);
+}
+
+.linkedin-img {
+  filter: drop-shadow(5px 5px 5px black);
+}
+
+.gmail-img {
+  filter: drop-shadow(5px 5px 5px black);
+}
